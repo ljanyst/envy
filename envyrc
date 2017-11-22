@@ -1,0 +1,7 @@
+# This file contains definitions of environment setup scripts paired
+# with their names. One definition can be declared per line. The names
+# must consist of only numbers and/or uppercase Latin letters. The paths must
+# be absolute and the scripts they are pointing to must exists.
+
+ENV_AI=/home/jdoe/apps/python/envs/ai/bin/activate
+ENV_ROS=/home/jdoe/apps/python/envs/ros/bin/activate
